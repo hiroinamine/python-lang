@@ -30,6 +30,22 @@ Posteriormente, a linguagem foi associada a serpente píton e seu logo faz refer
 
 ## Instalação
 
+Por padrão a maioria dos sistemas operacionais já vem com o Python instalado.
+
+Para verificar se o python já está instalado, executar o seguinte comando no seu terminal
+
+```shell
+$ python --version
+```
+
+ou para utilizar a versão 3 do python
+
+```shell
+$ python3 --version
+```
+
+Caso não tenha o python instalado, basta fazer a instalação utilizando o link https://www.python.org/downloads/ .
+
 ## Configuração
 
 
